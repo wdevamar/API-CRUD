@@ -1,6 +1,5 @@
 # API-CRUD
-API simple
-Features
+## Features
 
 - Create, Read, Update, and Delete records in a database.
 - User-friendly web interface.
@@ -28,7 +27,7 @@ Features
 - MySQL or any other compatible database
 
 
-COVID-19 Tracker
+
 
 # COVID-19 Tracker in PHP
 
@@ -46,4 +45,3 @@ This is a simple COVID-19 tracker web application implemented in PHP that allows
 - PHP 7.2 or higher
 - Web server (e.g., Apache, Nginx)
 - Composer (for installing PHP dependencies)
--
